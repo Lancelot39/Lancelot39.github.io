@@ -1,7 +1,7 @@
 ---
 title: "Improving Multi-turn Response Selection Models with Complementary Last-Utterance Selection by Instance Weighting"
 collection: publications
-permalink: /publication/2020-paper-number-1
+permalink: /publication/2020-01-25-paper-title-number-2
 excerpt: 'Kun Zhou, Wayne Xin Zhao, Yutao Zhu, Ji-Rong Wen, Jingsong Yu'
 date: 2020
 venue: 'PAKDD 2020'
