@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Big Data Science and Engineering, Renmin University of China, 2024 (expected)
+* **Ph.D** in Big Data Science and Engineering, Renmin University of China, 2024 (expected)
   * Advisor: Ji-Rong Wen and Wayne Xin Zhao
-* M.S. in Software Engineering, Peking University, 2020
+* **M.S.** in Software Engineering, Peking University, 2020
   * Advisor: Jingsong Yu
-* B.S. in Harbor Waterway and Coastal Engineering, Hohai University, 2017
+* **B.S.** in Harbor Waterway and Coastal Engineering, Hohai University, 2017
   * Advisor: Jian Shi
 
 Work experience
@@ -32,9 +32,9 @@ Work experience
   
 Awards and Honors
 ======
-* LIC2021 Multi-Skill Dialog Challenge[Link](https://aistudio.baidu.com/aistudio/competition/detail/29?isFromCcf=true)
+* LIC2021 Multi-Skill Dialog Challenge [Link](https://aistudio.baidu.com/aistudio/competition/detail/29?isFromCcf=true)
   * Ranked **1st** in Automatic Metrics Track, **3rd** in Human Evaluation Track
-* LIC2020 Conversational Recommendation Challenge[Link](https://aistudio.baidu.com/aistudio/competition/detail/67)
+* LIC2020 Conversational Recommendation Challenge [Link](https://aistudio.baidu.com/aistudio/competition/detail/67)
   * Ranked **2st** in Automatic Metrics Track, **4rd** in Human Evaluation Track
 * 2018 Jane Street Electronic Trading Challenges 
   * Ranked **1st**
