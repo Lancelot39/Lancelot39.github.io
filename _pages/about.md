@@ -16,7 +16,6 @@ My one long papers is submitted to ICDM2021. Wish me good luck （；´д｀）�
 
 My two long papers are submitted to EMNLP2021. Wish me good luck （；´д｀）ゞ
 
-Our one paper CRSLab is accepted by the demo track of ACL2021!!! Thanks for all my comrades in AIBOX!
 
 Publication
 ======
@@ -86,11 +85,11 @@ Most of my research work are open-source. Here are some my preferable projects!
 
 Experiences
 ------
-## 2019.12 - 2021.5, Research Intern, NLP center, Meituan Dianping.
+### 2019.12 - 2021.5, Research Intern, NLP center, Meituan Dianping.
 ### Mentor: Sirui Wang, Fuzheng Zhang
 I public four papers in CIKM2020 during my internship, thanks for my friends in Meituan.
 
-## 2018.8 - 2019.6, Research Intern, XiaoIce, Microsoft Asia.
+### 2018.8 - 2019.6, Research Intern, XiaoIce, Microsoft Asia.
 ### Mentor: Kai Zhang, Yu Wu
 I public my first top-conference paper during my internship, thanks for everyone in XiaoIce.
 
