@@ -11,9 +11,9 @@ title                    : "Kun Zhou / 周昆"
 title_separator          : "-"
 name                     : &name "Kun Zhou"
 description              : &description "Kun Zhou is a Ph.D student at School of Information, Renmin University of China, under the supervision of Wayne Xin Zhao and Ji-Rong Wen. His research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on sequence representation learning, conversational recommender system (CRS) and their applications in real-world scenarios. He obtained the master degree from Peking University, and bachelor from Hohai University."
-url                      : https://Lancelot39.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lancelot39.github.io/kunzhou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Lancelot39/Lancelot39.github.io"
+repository               : "Lancelot39/kunzhou.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
