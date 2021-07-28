@@ -1,7 +1,7 @@
 ---
 title: "Proactive Retrieval-based Chatbots based on Relevant Knowledge and Goals"
 collection: publications
-permalink: /publication/2021-04-25-paper-title-number-12
+permalink: /publication/2021-04-25-paper-title-number-13
 excerpt: 'Yutao Zhu, Jian-Yun Nie, **Kun Zhou**, Pan Du, Hao Jiang, Zhicheng Dou'
 date: 2021-04-25
 venue: 'SIGIR 2021 short paper'
