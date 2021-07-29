@@ -21,19 +21,19 @@ Selected Publication
 ======
 
 ### CRSLab: An Open-Source Toolkit for Building Conversational Recommender System (ACL2021 demo track paper)
-***Kun Zhou***\*, Xiaolei Wang\*, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li and Ji-Rong Wen (\*equal contribution)
 #### An Open-Source Toolkit for Building Conversational Recommender System
+***Kun Zhou***\*, Xiaolei Wang\*, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li and Ji-Rong Wen (\*equal contribution)
 
 ### Towards Topic-Guided Conversational Recommender System (COLING2020)
-***Kun Zhou***\*, Yuanhang Zhou\*, Wayne Xin Zhao, Xiaoke Wang and Ji-Rong Wen (\*equal contribution)
 #### A New Dataset for Conversational Recommendation.
+***Kun Zhou***\*, Yuanhang Zhou\*, Wayne Xin Zhao, Xiaoke Wang and Ji-Rong Wen (\*equal contribution)
+
+### S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM2020 Research Track long paper)
+#### This paper is selected as the most influential CIKM papers by [Paperdigest](https://www.paperdigest.org/2021/03/most-influential-cikm-papers-2021-03/), and also applied in [Meituan](https://www.meituan.com/) online recommender system
+***Kun Zhou***\*, Hui Wang\*, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen (\*equal contribution)
 
 ### Leveraging Historical Interaction Data for Improving Conversational Recommender System (CIKM2020 Research Track short paper)
 ***Kun Zhou***, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
-
-### S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM2020 Research Track long paper)
-***Kun Zhou***\*, Hui Wang\*, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen (\*equal contribution)
-#### This paper is selected as the most influential CIKM papers by [Paperdigest](https://www.paperdigest.org/2021/03/most-influential-cikm-papers-2021-03/), and also applied in [Meituan](https://www.meituan.com/) online recommender system
 
 ### Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion (KDD2020 Research Track)
 ***Kun Zhou***, Wayne Xin Zhao, Shuqing Bian, Yuanhang Zhou, Ji-Rong Wen and Jingsong Yu
@@ -42,8 +42,9 @@ Selected Publication
 ***Kun Zhou***, Wayne Xin Zhao, Yutao Zhu, Ji-Rong Wen and Jingsong Yu
 
 ### Unsupervised Context Rewriting for Open Domain Conversation (EMNLP-IJCNLP2019 long paper, also applied in Microsoft XiaoIce online platform)
-***Kun Zhou***, Kai Zhang, Yu Wu, Shujie Liu and Jingsong Yu
 #### This paper has been applied in Microsoft [XiaoIce](https://e.xiaoice.com/Home?r=%2F) online system.
+***Kun Zhou***, Kai Zhang, Yu Wu, Shujie Liu and Jingsong Yu
+
 
 Open Source Projects
 ======
