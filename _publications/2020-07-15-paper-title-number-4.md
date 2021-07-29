@@ -8,5 +8,6 @@ venue: 'CIKM 2020'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3340531.3411954'
 ---
 **Kun Zhou**, Hui Wang, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang, Ji-Rong Wen
+[This paper is selected by the **most influential CIKM papers** by Paperdigest](https://www.paperdigest.org/2021/03/most-influential-cikm-papers-2021-03/)
 
 [Download paper here](https://dl.acm.org/doi/pdf/10.1145/3340531.3411954)
