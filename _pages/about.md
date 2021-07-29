@@ -17,8 +17,9 @@ My one long papers is submitted to ICDM2021. Wish me good luck （；´д｀）�
 My two long papers are submitted to EMNLP2021. Wish me good luck （；´д｀）ゞ
 
 
-Selected Publication
+Selected Publications
 ======
+Here I select several my favorite papers, the whole publication list is in [Publication](https://lancelot39.github.io/kunzhou.github.io//publications/)
 
 ### CRSLab: An Open-Source Toolkit for Building Conversational Recommender System (ACL2021 demo track paper)
 #### An Open-Source Toolkit for Building Conversational Recommender System
