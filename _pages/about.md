@@ -12,6 +12,8 @@ Kun Zhou is a 1-st year Ph.D student at School of Information, Renmin University
 
 News
 ======
+Our one paper is accepted by CIKM2021 Applied Track, thanks for my comrades' help!
+
 My one long papers is submitted to ICDM2021. Wish me good luck （；´д｀）ゞ
 
 My two long papers are submitted to EMNLP2021. Wish me good luck （；´д｀）ゞ
@@ -91,7 +93,7 @@ Service
 ======
 * IJCAI 2021
   * **Senior PC Reviewer**
-* AAAI 2021, KDD 2021
+* AAAI 2021, KDD 2021, TOIS 2021
   * **PC Reviewer**
 
 Zhihu Posts
