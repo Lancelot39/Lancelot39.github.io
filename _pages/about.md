@@ -12,6 +12,8 @@ Kun Zhou is a 1-st year Ph.D student at School of Information, Renmin University
 
 News
 ======
+Our two papers are submitted to WSDM2022. Wish me good luck （；´д｀）ゞ
+
 Our one paper is accepted by CIKM2021 Applied Track, thanks for my comrades' help!
 
 My one long papers is submitted to ICDM2021. Wish me good luck （；´д｀）ゞ
