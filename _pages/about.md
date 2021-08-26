@@ -12,18 +12,22 @@ Kun Zhou is a 1-st year Ph.D student at School of Information, Renmin University
 
 News
 ======
+My long paper is accepted by EMNLP2021 main conference, thanks for my comrades' help! I return to EMNLP after two years. I love this conference! 
+
 Our two papers are submitted to WSDM2022. Wish me good luck （；´д｀）ゞ
 
 Our one paper is accepted by CIKM2021 Applied Track, thanks for my comrades' help!
 
 My one long papers is submitted to ICDM2021. Wish me good luck （；´д｀）ゞ
 
-My two long papers are submitted to EMNLP2021. Wish me good luck （；´д｀）ゞ
-
 
 Selected Publications
 ======
 Here I select several my favorite papers, the whole publication list is in [Publication](https://lancelot39.github.io/kunzhou.github.io//publications/)
+
+### Virtual Data Augmentation: A Robust and General Framework for Fine-tuning Pre-trained Models (EMNLP2021 main conference paper)
+#### A General Framework for Fine-tuning Pre-trained Language Model
+***Kun Zhou***, Wayne Xin Zhao, Sirui Wang, Fuzheng Zhang, Wei Wu and Ji-Rong Wen
 
 ### CRSLab: An Open-Source Toolkit for Building Conversational Recommender System (ACL2021 demo track paper)
 #### An Open-Source Toolkit for Building Conversational Recommender System
@@ -95,7 +99,7 @@ Service
 ======
 * IJCAI 2021
   * **Senior PC Reviewer**
-* AAAI 2021, KDD 2021, TOIS 2021
+* AAAI 2021, KDD 2021, TOIS 2021, WSDM 2022
   * **PC Reviewer**
 
 Zhihu Posts
