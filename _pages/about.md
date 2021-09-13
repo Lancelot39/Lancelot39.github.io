@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Kun Zhou is a 1-st year Ph.D student at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). His research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on **sequence representation learning**, **conversational recommender system** (CRS) and their applications in real-world scenarios. He obtained the master degree from Peking University, and bachelor from Hohai University.
+Kun Zhou is a 2-nd year Ph.D student at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). His research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on **sequence representation learning**, **conversational recommender system** (CRS) and their applications in real-world scenarios. He obtained the master degree from Peking University, and bachelor from Hohai University.
 
 News
 ======
+My one long papers is submitted to AAAI2021. Wish me good luck （；´д｀）ゞ
+
 My long paper is accepted by EMNLP2021 main conference, thanks for my comrades' help! I return to EMNLP after two years. I love this conference! 
 
 Our two papers are submitted to WSDM2022. Wish me good luck （；´д｀）ゞ
-
-Our one paper is accepted by CIKM2021 Applied Track, thanks for my comrades' help!
-
-My one long papers is submitted to ICDM2021. Wish me good luck （；´д｀）ゞ
-
 
 Selected Publications
 ======
