@@ -35,13 +35,14 @@ Here I select several my favorite papers, the whole publication list is in [Publ
 ***Kun Zhou***\*, Yuanhang Zhou\*, Wayne Xin Zhao, Xiaoke Wang and Ji-Rong Wen (\*equal contribution)
 
 ### S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM2020 Research Track long paper)
-#### This paper is selected as the most influential CIKM papers by [Paperdigest](https://www.paperdigest.org/2021/03/most-influential-cikm-papers-2021-03/), and also applied in [Meituan](https://www.meituan.com/) online recommender system
+#### This paper is selected as the most influential CIKM papers by [Paperdigest](https://www.paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/), and also applied in [Meituan](https://www.meituan.com/) online recommender system
 ***Kun Zhou***\*, Hui Wang\*, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen (\*equal contribution)
 
 ### Leveraging Historical Interaction Data for Improving Conversational Recommender System (CIKM2020 Research Track short paper)
 ***Kun Zhou***, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
 
 ### Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion (KDD2020 Research Track)
+#### This paper is selected as the most influential KDD papers by [Paperdigest](https://www.paperdigest.org/2021/08/most-influential-kdd-papers-2021-08/)
 ***Kun Zhou***, Wayne Xin Zhao, Shuqing Bian, Yuanhang Zhou, Ji-Rong Wen and Jingsong Yu
 
 ### Improving Multi-Turn Response Selection Models with Complementary Last-Utterance Selection by Instance Weighting (PAKDD2020)
