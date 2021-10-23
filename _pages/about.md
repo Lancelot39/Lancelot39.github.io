@@ -12,9 +12,11 @@ Kun Zhou is a 2-nd year Ph.D student at School of Information, Renmin University
 
 News
 ======
+My three papers are submitted to WWW2022. Wish me good luck （；´д｀）ゞ
+
 Our long paper is accepted by WSDM2022 as a regular paper, thanks for my comrades' help!
 
-My one long papers is submitted to AAAI2021. Wish me good luck （；´д｀）ゞ
+My one long papers is submitted to AAAI2022. Wish me good luck （；´д｀）ゞ
 
 My long paper is accepted by EMNLP2021 main conference, thanks for my comrades' help! I return to EMNLP after two years. I love this conference! 
 
