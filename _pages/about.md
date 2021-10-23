@@ -22,7 +22,7 @@ My long paper is accepted by EMNLP2021 main conference, thanks for my comrades' 
 
 Selected Publications
 ======
-Here I select several my favorite papers, the whole publication list is in [Publication](https://lancelot39.github.io/kunzhou.github.io//publications/)
+Here I select several my favorite papers, the whole publication list is in [Publication](https://lancelot39.github.io/publications/)
 
 ### Virtual Data Augmentation: A Robust and General Framework for Fine-tuning Pre-trained Models (EMNLP2021 main conference paper)
 #### A General Framework for Fine-tuning Pre-trained Language Model
