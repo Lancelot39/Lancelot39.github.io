@@ -20,11 +20,15 @@ Selected Publications
 ======
 Here I select several my favorite papers, the whole publication list is in [Publication](https://lancelot39.github.io/publications/)
 
-### Virtual Data Augmentation: A Robust and General Framework for Fine-tuning Pre-trained Models (EMNLP2021 main conference paper)
+### Filter-enhanced MLP is All You Need for Sequential Recommendation (WWW2022)
+#### A Cool Model with Fast Fourier Transform, Learnable Filters and All-MLP Architecture
+***Kun Zhou***\*, Hui Yu\*, Wayne Xin Zhao and Ji-Rong Wen
+
+### Virtual Data Augmentation: A Robust and General Framework for Fine-tuning Pre-trained Models (EMNLP2021)
 #### A General Framework for Fine-tuning Pre-trained Language Model
 ***Kun Zhou***, Wayne Xin Zhao, Sirui Wang, Fuzheng Zhang, Wei Wu and Ji-Rong Wen
 
-### CRSLab: An Open-Source Toolkit for Building Conversational Recommender System (ACL2021 demo track paper)
+### CRSLab: An Open-Source Toolkit for Building Conversational Recommender System (ACL2021 demo track)
 #### An Open-Source Toolkit for Building Conversational Recommender System
 ***Kun Zhou***\*, Xiaolei Wang\*, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li and Ji-Rong Wen (\*equal contribution)
 
@@ -32,21 +36,15 @@ Here I select several my favorite papers, the whole publication list is in [Publ
 #### A New Dataset for Conversational Recommendation.
 ***Kun Zhou***\*, Yuanhang Zhou\*, Wayne Xin Zhao, Xiaoke Wang and Ji-Rong Wen (\*equal contribution)
 
-### S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM2020 Research Track long paper)
+### S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM2020)
 #### This paper is selected as the most influential CIKM papers by [Paperdigest](https://www.paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/), and also applied in [Meituan](https://www.meituan.com/) online recommender system
 ***Kun Zhou***\*, Hui Wang\*, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen (\*equal contribution)
 
-### Leveraging Historical Interaction Data for Improving Conversational Recommender System (CIKM2020 Research Track short paper)
-***Kun Zhou***, Wayne Xin Zhao, Hui Wang, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
-
-### Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion (KDD2020 Research Track)
+### Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion (KDD2020)
 #### This paper is selected as the most influential KDD papers by [Paperdigest](https://www.paperdigest.org/2021/08/most-influential-kdd-papers-2021-08/)
 ***Kun Zhou***, Wayne Xin Zhao, Shuqing Bian, Yuanhang Zhou, Ji-Rong Wen and Jingsong Yu
 
-### Improving Multi-Turn Response Selection Models with Complementary Last-Utterance Selection by Instance Weighting (PAKDD2020)
-***Kun Zhou***, Wayne Xin Zhao, Yutao Zhu, Ji-Rong Wen and Jingsong Yu
-
-### Unsupervised Context Rewriting for Open Domain Conversation (EMNLP-IJCNLP2019 long paper, also applied in Microsoft XiaoIce online platform)
+### Unsupervised Context Rewriting for Open Domain Conversation (EMNLP-IJCNLP2019)
 #### This paper has been applied in Microsoft [XiaoIce](https://e.xiaoice.com/Home?r=%2F) online system.
 ***Kun Zhou***, Kai Zhang, Yu Wu, Shujie Liu and Jingsong Yu
 
@@ -95,7 +93,7 @@ Service
 ======
 * IJCAI 2021
   * **Senior PC Reviewer**
-* AAAI 2021, KDD 2021, TOIS 2021, WSDM 2022
+* AAAI 2021, KDD 2021, TOIS 2021, WSDM 2022, KDD 2022
   * **PC Reviewer**
 
 Zhihu Posts
