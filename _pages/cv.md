@@ -59,5 +59,5 @@ Service
 ======
 * IJCAI 2021
   * **Senior PC Reviewer**
-* AAAI 2021, KDD 2021
+* AAAI 2021, KDD 2021, TOIS 2021, WSDM 2022, KDD 2022
   * **PC Reviewer**
