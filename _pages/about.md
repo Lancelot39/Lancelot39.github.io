@@ -12,11 +12,9 @@ Kun Zhou is a 2-nd year Ph.D student at School of Information, Renmin University
 
 News
 ======
-Our long paper is accepted by WWW2022 research track. It is simple, effective and elegant! Thanks for my comrades' help!
+My long paper is accepted by WWW2022 research track. It is simple, effective and elegant! Thanks for my comrades' help!
 
 Our long paper is accepted by WSDM2022 as a regular paper. Thanks for my comrades' help!
-
-My long paper is accepted by EMNLP2021 main conference. Thanks for my comrades' help! I return to EMNLP after two years. I love this conference! 
 
 Selected Publications
 ======
