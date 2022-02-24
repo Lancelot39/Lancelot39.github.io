@@ -12,13 +12,16 @@ Kun Zhou is a 2-nd year Ph.D student at School of Information, Renmin University
 
 News
 ======
-My long paper is accepted by WWW2022 research track. It is simple, effective and elegant! Thanks for my comrades' help!
+Our two long papers is accepted by ACL2022 main conference. Thanks for my comrades' help!
 
-Our long paper is accepted by WSDM2022 as a regular paper. Thanks for my comrades' help!
+My long paper is accepted by WWW2022 research track. It is simple, effective and elegant! Thanks for my comrades' help!
 
 Selected Publications
 ======
 Here I select several my favorite papers, the whole publication list is in [Publication](https://lancelot39.github.io/publications/)
+### Debiased Contrastive Learning of Unsupervised Sentence Representations (ACL2022)
+#### The First Attempt on Debiased Sentence Representations 
+Kun Zhou, Beichen Zhang, Wayne Xin Zhao and Ji-Rong Wen
 
 ### Filter-enhanced MLP is All You Need for Sequential Recommendation (WWW2022)
 #### A Cool Model with Fast Fourier Transform, Learnable Filters and All-MLP Architecture
