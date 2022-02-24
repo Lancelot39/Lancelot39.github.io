@@ -21,7 +21,7 @@ Selected Publications
 Here I select several my favorite papers, the whole publication list is in [Publication](https://lancelot39.github.io/publications/)
 ### Debiased Contrastive Learning of Unsupervised Sentence Representations (ACL2022)
 #### The First Attempt on Debiased Sentence Representations 
-Kun Zhou, Beichen Zhang, Wayne Xin Zhao and Ji-Rong Wen
+***Kun Zhou***, Beichen Zhang, Wayne Xin Zhao and Ji-Rong Wen
 
 ### Filter-enhanced MLP is All You Need for Sequential Recommendation (WWW2022)
 #### A Cool Model with Fast Fourier Transform, Learnable Filters and All-MLP Architecture
