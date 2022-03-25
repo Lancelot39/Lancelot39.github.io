@@ -12,9 +12,11 @@ Kun Zhou is a 2-nd year Ph.D student at School of Information, Renmin University
 
 News
 ======
+Our long paper is accepted by TOIS2022. Thanks for Hui Wang's help!
+
 Our two long papers is accepted by ACL2022 main conference. Thanks for my comrades' help!
 
-My long paper is accepted by WWW2022 research track. It is simple, effective and elegant! Thanks for my comrades' help!
+My long paper is accepted by WWW2022 research track. It is simple, effective and elegant! Thanks for Hui Yu's help!
 
 Selected Publications
 ======
