@@ -1,7 +1,7 @@
 ---
 title: "Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning"
 collection: publications
-permalink: /publication/2022-05-19-paper-title-number-21
+permalink: /publication/2022-05-19-paper-title-number-23
 excerpt: 'Xiaolei Wang\*, **Kun Zhou\***, Ji-Rong Wen and Wayne Xin Zhao. (\* Equal Contribution)'
 date: 2022-05-19
 venue: 'KDD 2022 Research Track'
