@@ -65,13 +65,21 @@ Most of my research work are open-source. Here are some my preferable projects!
 
 Experiences
 ------
+### 2022.4 - Now, Research Intern, NLC Group, MSRA.
+### Mentor: Yeyun Gong, Nan Duan
+Start a new adventure on Dense Retrieval and Large-scale Pre-training Model !!!
+
+### 2021.9 - 2022.4, Research Intern, iFLYTEK Research.
+### Mentor: Jing Sha, Shijin Wang
+I led a team to develop the first Chinese Mathematical Pre-trained Language Model, Jiuzhang. We are also persisting to advance the development of this area.
+
 ### 2019.12 - 2021.5, Research Intern, NLP center, Meituan Dianping.
 ### Mentor: Sirui Wang, Fuzheng Zhang
-I public four papers in CIKM2020 during my internship, thanks for my friends in Meituan.
+My several papers were accepted during my internship, and one paper S3-Rec has been deployed in Meituan Online recommender system.
 
 ### 2018.8 - 2019.6, Research Intern, XiaoIce, Microsoft Asia.
 ### Mentor: Kai Zhang, Yu Wu
-I public my first top-conference paper during my internship, thanks for everyone in XiaoIce.
+I published my first top-conference paper during my internship, and deployed my first model on XiaoIce online system, thanks for everyone in XiaoIce.
 
 Rewards and Honors
 ------
