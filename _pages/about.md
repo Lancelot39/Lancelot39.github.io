@@ -8,17 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Kun Zhou is a 2-nd year Ph.D student at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). His research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on **sequence representation learning**, **conversational recommender system** (CRS) and their applications in real-world scenarios. He obtained the master degree from Peking University, and bachelor from Hohai University.
+Kun Zhou is a 3-rd year Ph.D student at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). His research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on **sequence representation learning**, **pre-trained language model** (PLM) and their applications in real-world scenarios. He obtained the master degree from Peking University, and bachelor from Hohai University.
 
 News
 ======
-Our two long papers are accepted by KDD2022 Research and ADS tracks. Thanks for my comrades' help!
+I won the 2022 MSRA Fellowship and 2022 Bytedance Scholarship. Thanks for everyone in my research life, especially my two supervisors.
 
-Our long paper is accepted by NAACL2022-Findings. Thanks for Jinhao's help!
+My long paper is accepted by EMNLP 2022 Industry Track. Thanks for my comrades' help!
 
 Selected Publications
 ======
 Here I select several my favorite papers, the whole publication list is in [Publication](https://lancelot39.github.io/publications/)
+### SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval (EMNLP2022)
+#### Simple and effective. It has been applied in Microsoft [Bing Search](https://www.bing.com/) online system.
+***Kun Zhou***, Yeyun Gong, Xiao Liu, Wayne Xin Zhao, Yelong Shen, Anlei Dong, Jingwen Lu, Rangan Majumder, Ji-Rong Wen, Nan Duan, Weizhu Chen
+
 ### Debiased Contrastive Learning of Unsupervised Sentence Representations (ACL2022)
 #### The First Attempt on Debiased Sentence Representations 
 ***Kun Zhou***, Beichen Zhang, Wayne Xin Zhao and Ji-Rong Wen
@@ -26,10 +30,6 @@ Here I select several my favorite papers, the whole publication list is in [Publ
 ### Filter-enhanced MLP is All You Need for Sequential Recommendation (WWW2022)
 #### A Cool Model with Fast Fourier Transform, Learnable Filters and All-MLP Architecture
 ***Kun Zhou***\*, Hui Yu\*, Wayne Xin Zhao and Ji-Rong Wen
-
-### Virtual Data Augmentation: A Robust and General Framework for Fine-tuning Pre-trained Models (EMNLP2021)
-#### A General Framework for Fine-tuning Pre-trained Language Model
-***Kun Zhou***, Wayne Xin Zhao, Sirui Wang, Fuzheng Zhang, Wei Wu and Ji-Rong Wen
 
 ### CRSLab: An Open-Source Toolkit for Building Conversational Recommender System (ACL2021 demo track)
 #### An Open-Source Toolkit for Building Conversational Recommender System
@@ -83,6 +83,10 @@ I published my first top-conference paper during my internship, and deployed my 
 
 Rewards and Honors
 ------
+* 2022 Bytedance Scholarship (10 PhD Students in China Mainland)
+* 2022 MSRA Fellowship (12 PhD Students in Asia-Pacific-region)
+* 2022 Baogang Scholarship (12 Students in RUC). 
+* 2022 National Scholarship.
 * LIC2021 Multi-Skill Dialog Challenge [Link](https://aistudio.baidu.com/aistudio/competition/detail/29?isFromCcf=true)
   * Ranked **1st** in Automatic Metrics Track, **3rd** in Human Evaluation Track
 * LIC2020 Conversational Recommendation Challenge [Link](https://aistudio.baidu.com/aistudio/competition/detail/67)
@@ -104,7 +108,7 @@ Service
 ======
 * IJCAI 2021
   * **Senior PC Reviewer**
-* AAAI 2021, KDD 2021, TOIS 2021, WSDM 2022, KDD 2022
+* AAAI 2021, KDD 2021, TOIS 2021, WSDM 2022, KDD 2022, EMNLP 2022, COLING 2022, TOIS 2022
   * **PC Reviewer**
 
 Zhihu Posts
