@@ -83,8 +83,8 @@ I published my first top-conference paper during my internship, and deployed my 
 
 Rewards and Honors
 ------
-* 2022 Bytedance Scholarship (10 PhD Students in China Mainland)
-* 2022 MSRA Fellowship (12 PhD Students in Asia-Pacific-region)
+* 2022 Bytedance Scholarship (10 PhD Students in China Mainland) [Link](https://ur.bytedance.com/scholarship)
+* 2022 MSRA Fellowship (12 PhD Students in Asia-Pacific-region) [Link](https://www.msra.cn/zh-cn/news/features/2022-fellows)
 * 2022 Baogang Scholarship (12 Students in RUC). 
 * 2022 National Scholarship.
 * LIC2021 Multi-Skill Dialog Challenge [Link](https://aistudio.baidu.com/aistudio/competition/detail/29?isFromCcf=true)
