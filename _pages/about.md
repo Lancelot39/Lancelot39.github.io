@@ -12,9 +12,11 @@ Kun Zhou is a 3-rd year Ph.D student at School of Information, Renmin University
 
 News
 ======
-I won the 2022 MSRA Fellowship and 2022 Bytedance Scholarship. Thanks for everyone in my research life, especially my two supervisors.
+My long paper is accepted by ICLR 2023. Thanks for my comrades' help!
 
-My long paper is accepted by EMNLP 2022 Industry Track. Thanks for my comrades' help!
+My long paper is accepted by TOIS 2023. Thanks for my comrades' help!
+
+I won the 2022 MSRA Fellowship and 2022 Bytedance Scholarship. Thanks for everyone in my research life, especially my two supervisors.
 
 Selected Publications
 ======
@@ -108,7 +110,7 @@ Service
 ======
 * IJCAI 2021
   * **Senior PC Reviewer**
-* AAAI 2021, KDD 2021, TOIS 2021, WSDM 2022, KDD 2022, EMNLP 2022, COLING 2022, TOIS 2022
+* AAAI, IJCAI, KDD, SIGIR, WWW, WSDM, ACL, EMNLP, COLING, TOIS, TORS
   * **PC Reviewer**
 
 Zhihu Posts
