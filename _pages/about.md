@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Kun Zhou is a 3-rd year Ph.D student at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). His research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on **sequence representation learning**, **pre-trained language model** (PLM) and their applications in real-world scenarios. He obtained the master degree from Peking University, and bachelor from Hohai University.
+Kun Zhou is a 3-rd year Ph.D student at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). His research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on **pre-trained language model** (PLM) and their applications in real-world scenarios. He obtained the master degree from Peking University, and bachelor from Hohai University.
 
 News
 ======
-My long paper is accepted by ICLR 2023. Thanks for my comrades' help!
+Our two long papers are accepted by KDD 2023. Thanks for my comrades!
 
-My long paper is accepted by TOIS 2023. Thanks for my comrades' help!
-
-I won the 2022 MSRA Fellowship and 2022 Bytedance Scholarship. Thanks for everyone in my research life, especially my two supervisors.
+Our two long papers are accepted by ACL 2023. Thanks for my comrades!
 
 Selected Publications
 ======
 Here I select several my favorite papers, the whole publication list is in [Publication](https://lancelot39.github.io/publications/)
+### A Survey of Large Language Models [Arxiv](https://arxiv.org/abs/2303.18223)
+#### A very very comprehensive survey for the recent progressive of large language models
+Wayne Xin Zhao, ***Kun Zhou***, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen
+
 ### SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval (EMNLP2022)
 #### Simple and effective. It has been applied in Microsoft [Bing Search](https://www.bing.com/) online system.
 ***Kun Zhou***, Yeyun Gong, Xiao Liu, Wayne Xin Zhao, Yelong Shen, Anlei Dong, Jingwen Lu, Rangan Majumder, Ji-Rong Wen, Nan Duan, Weizhu Chen
@@ -85,6 +87,7 @@ I published my first top-conference paper during my internship, and deployed my 
 
 Rewards and Honors
 ------
+* 2022 Baidu Scholarship (10 PhD Students) [Link](http://scholarship.baidu.com/)
 * 2022 Bytedance Scholarship (10 PhD Students in China Mainland) [Link](https://ur.bytedance.com/scholarship)
 * 2022 MSRA Fellowship (12 PhD Students in Asia-Pacific-region) [Link](https://www.msra.cn/zh-cn/news/features/2022-fellows)
 * 2022 Baogang Scholarship (12 Students in RUC). 
