@@ -12,9 +12,9 @@ Kun Zhou is a 3-rd year Ph.D student at School of Information, Renmin University
 
 News
 ======
-Our two long papers are accepted by KDD 2023. Thanks for my comrades!
+We just release a chat-based large language model by fine-tuning on high-quality instructions, [YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat).
 
-Our two long papers are accepted by ACL 2023. Thanks for my comrades!
+My paper is accepted by ECML-PKDD 2023. Thanks for my comrades!
 
 Selected Publications
 ======
@@ -35,14 +35,6 @@ Wayne Xin Zhao, ***Kun Zhou***, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou,
 #### A Cool Model with Fast Fourier Transform, Learnable Filters and All-MLP Architecture
 ***Kun Zhou***\*, Hui Yu\*, Wayne Xin Zhao and Ji-Rong Wen
 
-### CRSLab: An Open-Source Toolkit for Building Conversational Recommender System (ACL2021 demo track)
-#### An Open-Source Toolkit for Building Conversational Recommender System
-***Kun Zhou***\*, Xiaolei Wang\*, Yuanhang Zhou, Chenzhan Shang, Yuan Cheng, Wayne Xin Zhao, Yaliang Li and Ji-Rong Wen (\*equal contribution)
-
-### Towards Topic-Guided Conversational Recommender System (COLING2020)
-#### A New Dataset for Conversational Recommendation.
-***Kun Zhou***\*, Yuanhang Zhou\*, Wayne Xin Zhao, Xiaoke Wang and Ji-Rong Wen (\*equal contribution)
-
 ### S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM2020)
 #### This paper is selected as the most influential CIKM papers by [Paperdigest](https://www.paperdigest.org/2021/08/most-influential-cikm-papers-2021-08/), and also applied in [Meituan](https://www.meituan.com/) online recommender system
 ***Kun Zhou***\*, Hui Wang\*, Wayne Xin Zhao, Yutao Zhu, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen (\*equal contribution)
@@ -51,15 +43,12 @@ Wayne Xin Zhao, ***Kun Zhou***, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou,
 #### This paper is selected as the most influential KDD papers by [Paperdigest](https://www.paperdigest.org/2021/08/most-influential-kdd-papers-2021-08/)
 ***Kun Zhou***, Wayne Xin Zhao, Shuqing Bian, Yuanhang Zhou, Ji-Rong Wen and Jingsong Yu
 
-### Unsupervised Context Rewriting for Open Domain Conversation (EMNLP-IJCNLP2019)
-#### This paper has been applied in Microsoft [XiaoIce](https://e.xiaoice.com/Home?r=%2F) online system.
-***Kun Zhou***, Kai Zhang, Yu Wu, Shujie Liu and Jingsong Yu
-
 
 Open Source Projects
 ======
 Most of my research work are open-source. Here are some my preferable projects!
-
+* [**YuLan-Chat**](https://github.com/RUC-GSAI/YuLan-Chat)
+  * YuLan-Chat is a chat-based large language model developed based on fine-tuning LLaMA with high-quality English and Chinese instructions. YuLan-Chat can chat with users to well follow English or Chinese instructions, and can be deployed on an GPU (A800-80G or RTX3090) after quantization. YuLan (Simplified Chinese 玉兰), which represents Yulan Magnolia, is the campus flower of Renmin University of China.
 * [**CRSLab**](https://github.com/RUCAIBox/CRSLab)
   * CRSLab is an open-source toolkit for building Conversational Recommender System (CRS). It contains comprehensive benchmark models and datasets, extensive and standard evaluation protocols, general and extensible structure, human-machine interaction interfaces, and is easy to get started.
 * [**TG-ReDial**](https://github.com/RUCAIBox/TG-ReDial)
@@ -69,7 +58,7 @@ Most of my research work are open-source. Here are some my preferable projects!
 
 Experiences
 ------
-### 2022.4 - Now, Research Intern, NLC Group, MSRA.
+### 2022.4 - 2023.6, Research Intern, NLC Group, MSRA.
 ### Mentor: Yeyun Gong, Nan Duan
 Start a new adventure on Dense Retrieval and Large-scale Pre-training Model !!!
 
