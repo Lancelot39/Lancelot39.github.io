@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Kun Zhou is a 3-rd year Ph.D student at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). His research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on **pre-trained language model** (PLM) and their applications in real-world scenarios. He obtained the master degree from Peking University, and bachelor from Hohai University.
+Kun Zhou is a final year Ph.D student at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). His research interests are in natural language processing (NLP), information retrival (IR) and machine learning (ML), with focuses on **pre-trained language model** (PLM) and their applications in real-world scenarios. He obtained the master degree from Peking University, and bachelor from Hohai University.
 
 News
 ======
-We just release a chat-based large language model by fine-tuning on high-quality instructions, [YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat).
+We release the promoted YuLan-Chat-2 by continually-pretraining and multi-stage instruction-tuning LLaMA-2 on Chinese and English bilingual corpus, and extend the maximum length into 8k: [YuLan-Chat-2](https://github.com/RUC-GSAI/YuLan-Chat).
 
-My paper is accepted by ECML-PKDD 2023. Thanks for my comrades!
+We release a chat-based large language model by fine-tuning on high-quality instructions, [YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat).
+
+My paper is accepted by TASLP 2023. Thanks for my comrades!
 
 Selected Publications
 ======
@@ -23,16 +25,20 @@ Here I select several my favorite papers, the whole publication list is in [Publ
 #### A very very comprehensive survey for the recent progressive of large language models
 Wayne Xin Zhao, ***Kun Zhou***, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen
 
+### MASTER: Multi-task Pre-trained Bottlenecked Masked Autoencoders are Better Dense Retrievers (ECML-PKDD2023)
+#### A Well-Pretrained backbone for dense retrieval
+***Kun Zhou***, Xiao Liu, Yeyun Gong, Wayne Xin Zhao, Daxin Jiang, Nan Duan, Ji-Rong Wen
+
 ### SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval (EMNLP2022)
 #### Simple and effective. It has been applied in Microsoft [Bing Search](https://www.bing.com/) online system.
 ***Kun Zhou***, Yeyun Gong, Xiao Liu, Wayne Xin Zhao, Yelong Shen, Anlei Dong, Jingwen Lu, Rangan Majumder, Ji-Rong Wen, Nan Duan, Weizhu Chen
 
 ### Debiased Contrastive Learning of Unsupervised Sentence Representations (ACL2022)
-#### The First Attempt on Debiased Sentence Representations 
+#### Reducing sampling bias from anisotropy problem and false negative
 ***Kun Zhou***, Beichen Zhang, Wayne Xin Zhao and Ji-Rong Wen
 
 ### Filter-enhanced MLP is All You Need for Sequential Recommendation (WWW2022)
-#### A Cool Model with Fast Fourier Transform, Learnable Filters and All-MLP Architecture
+#### This paper is selected as the most influential WWW papers by [Paperdigest](https://www.paperdigest.org/2023/04/most-influential-www-papers-2023-04/), and also applied in many online recommender systems
 ***Kun Zhou***\*, Hui Yu\*, Wayne Xin Zhao and Ji-Rong Wen
 
 ### S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM2020)
@@ -48,6 +54,7 @@ Open Source Projects
 ======
 Most of my research work are open-source. Here are some my preferable projects!
 * [**YuLan-Chat**](https://github.com/RUC-GSAI/YuLan-Chat)
+  * YuLan-Chat-2 is released, which is developed by continually-pretraining and instruction-tuning LLaMA-2 with high-quality English and Chinese data. It can support 8k maximum length now, and outperforms other llama-2-based bilingual LLM on MMLU, C-Eval and AGIEval-Gaokao.
   * YuLan-Chat is a chat-based large language model developed based on fine-tuning LLaMA with high-quality English and Chinese instructions. YuLan-Chat can chat with users to well follow English or Chinese instructions, and can be deployed on an GPU (A800-80G or RTX3090) after quantization. YuLan (Simplified Chinese 玉兰), which represents Yulan Magnolia, is the campus flower of Renmin University of China.
 * [**CRSLab**](https://github.com/RUCAIBox/CRSLab)
   * CRSLab is an open-source toolkit for building Conversational Recommender System (CRS). It contains comprehensive benchmark models and datasets, extensive and standard evaluation protocols, general and extensible structure, human-machine interaction interfaces, and is easy to get started.
