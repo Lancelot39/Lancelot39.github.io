@@ -25,9 +25,9 @@ Here I select several my favorite papers, the whole publication list is in [Publ
 #### A very very comprehensive survey for the recent progressive of large language models
 Wayne Xin Zhao, ***Kun Zhou***, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen
 
-### JiuZhang 2.0: A Unified Chinese Pre-trained Language Model for Multi-task Mathematical Problem Solving (KDD2023)
-### JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding (KDD2022)
-#### Chinese Mathematical Language Models for Education
+### Leading JiuZhang Team (Chinese Mathematical Language Models for Education)
+#### JiuZhang 2.0: A Unified Chinese Pre-trained Language Model for Multi-task Mathematical Problem Solving (KDD2023)
+#### JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding (KDD2022)
 **JiuZhang Team** (***Kun Zhou (Leader)***, Beichen Zhang, Zheng Gong, Zhipeng Chen, Yuanhang Zhou)
 
 ### MASTER: Multi-task Pre-trained Bottlenecked Masked Autoencoders are Better Dense Retrievers (ECML-PKDD2023)
