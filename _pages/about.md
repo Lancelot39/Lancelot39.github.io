@@ -12,11 +12,13 @@ Kun Zhou is a final year Ph.D student at School of Information, Renmin Universit
 
 News
 ======
+***I am seeking for Postdoc Position about Large Language Models.***
+
+Our four papers are accepted by EMNLP 2023. Thanks for my comrades! See you in Singapore!
+
+Our one paper is accepted by NeurIPS 2023 dataset Track. Thanks for my comrades! See you in New Orleans!
+
 We release the promoted YuLan-Chat-2 by continually-pretraining and multi-stage instruction-tuning LLaMA-2 on Chinese and English bilingual corpus, and extend the maximum length into 8k: [YuLan-Chat-2](https://github.com/RUC-GSAI/YuLan-Chat).
-
-We release a chat-based large language model by fine-tuning on high-quality instructions, [YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat).
-
-My paper is accepted by TASLP 2023. Thanks for my comrades!
 
 Selected Publications
 ======
