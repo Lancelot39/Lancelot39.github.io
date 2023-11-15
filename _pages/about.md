@@ -18,8 +18,6 @@ Our four papers are accepted by EMNLP 2023. Thanks for my comrades! See you in S
 
 Our one paper is accepted by NeurIPS 2023 dataset Track. Thanks for my comrades!
 
-We release the promoted YuLan-Chat-2 by training LLaMA-2 on Chinese and English bilingual corpus, and extend the maximum length into 8k: [YuLan-Chat-2](https://github.com/RUC-GSAI/YuLan-Chat).
-
 Research Interests
 ======
 Currently, my primary research lies in large language models (LLMs). I am devoting to answer the following research problems:
@@ -27,25 +25,25 @@ Currently, my primary research lies in large language models (LLMs). I am devoti
 * **How to Build Stronger General Large Language Models?**
   * ***Background:*** Crafting A Comprehensive Survey about LLMs: [Arxiv](https://arxiv.org/abs/2303.18223)
   * ***Training:*** Improving LLMs via High-quality Instructions: [YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat)
-  * ***What is stronger?*** Empirical Study about Benchmark Leakage in LLM Evaluation Fairness: [Arxiv](https://arxiv.org/pdf/2311.01964)
+  * ***What is stronger?*** Studying Benchmark Leakage in LLM Evaluation Fairness: [Arxiv](https://arxiv.org/pdf/2311.01964)
 * **How to Create Effective and Efficient LLM-based Agents for Complex Scenarios?**
   * ***Tool-Augmented Math Agent:*** Tool-Augmented Reasoning Agent [EMNLP 2023](https://arxiv.org/pdf/2305.14323), Iterative Deliberation for Error Check [NeurIPS 2023](https://arxiv.org/pdf/2306.02408)
-  * ***Reasoning Agent over Structured Data:*** Toolized Structured Data with Prompting Method [EMNLP 2023](https://arxiv.org/pdf/2305.09645)
-  * ***Multimodal LLM-based Agent:*** Effective Visual Instruction Tuning [Arxiv](https://arxiv.org/pdf/2311.01487), Evaluation of Object Hallucination [EMNLP 2023](https://arxiv.org/pdf/2305.10355)
+  * ***Reasoning Agent over Structured Data:*** Toolization with Prompting Method [EMNLP 2023](https://arxiv.org/pdf/2305.09645)
+  * ***Multimodal LLM-based Agent:*** Visual Instruction Tuning [Arxiv](https://arxiv.org/pdf/2311.01487), Evaluation of Object Hallucination [EMNLP 2023](https://arxiv.org/pdf/2305.10355)
 
 Before the era of large language models, I have investigated pre-trained language models (PLMs), and their application on sentence representation learning and complex reasoning.
 
 * **Effective Fine-tuning PLMs**
-  * ***General Fine-tuning Strategy:*** visual-augmented without images [ACL 2023](https://arxiv.org/pdf/2212.07937), over-parameterization [ACL 2023](https://aclanthology.org/2023.acl-long.212.pdf)
+  * ***General Fine-tuning Strategy:*** Visual-Augmentation [ACL 2023](https://arxiv.org/pdf/2212.07937), Over-Parameterization [ACL 2023](https://aclanthology.org/2023.acl-long.212.pdf)
 * **PLM-based Sentence Representations**
   * ***Unsupervised Sentence Representations:*** Debiased Contrastive Learning [ACL 2022](https://arxiv.org/pdf/2205.00656)
-  * ***Dense Passage Retrieval:*** Simple Ambiguous Negatives Sampling [EMNLP 2022](https://arxiv.org/pdf/2210.11773), Multi-task Pre-trained Bottlenecked MAE [ECML-PKDD 2023](https://arxiv.org/pdf/2212.07841)
+  * ***Dense Text Retrieval:*** Ambiguous Negatives Sampling [EMNLP 2022](https://arxiv.org/pdf/2210.11773), Multi-task Bottlenecked MAE [ECML-PKDD 2023](https://arxiv.org/pdf/2212.07841)
 * **PLM-based Complex Reasoning**
-  * ***Math-specific PLMs:*** Continual Pre-training with Memory Network [ACL 2022](https://aclanthology.org/2022.acl-long.408.pdf), Curriculum Pre-training [KDD 2022](https://arxiv.org/pdf/2206.06315), Unified Pre-training with MoE Architecture [KDD 2023](https://arxiv.org/pdf/2306.11027)
-  * ***PLM+KG for Knowledge Reasoning:*** Simple Rule-based KG Encoder [NAACL 2022](https://arxiv.org/pdf/2205.01841), Unified Retrieval-and-Reasoning based on Relation Learning [ICLR 2023](https://arxiv.org/pdf/2212.00959)
+  * ***Math-specific PLMs:*** Pre-training with Memory Network [ACL 2022](https://aclanthology.org/2022.acl-long.408.pdf), Curriculum Pre-training [KDD 2022](https://arxiv.org/pdf/2206.06315), Unified MoE Pre-training [KDD 2023](https://arxiv.org/pdf/2306.11027)
+  * ***PLM+KG for Knowledge Reasoning:*** Simple Rule-based KG Encoder [NAACL 2022](https://arxiv.org/pdf/2205.01841), Unified Relation Learning [ICLR 2023](https://arxiv.org/pdf/2212.00959)
 
 
-I also have interesting research works about conversational recommender systems, sequential recommendation and dialog system. My whole publication list is in [Publication](https://lancelot39.github.io/publications/)
+I also have done interesting research works about conversational recommender systems, sequential recommendation and dialog system. My whole publication list is in [Publication](https://lancelot39.github.io/publications/)
 
 Open-Source Projects
 ======
