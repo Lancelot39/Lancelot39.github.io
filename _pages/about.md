@@ -55,7 +55,7 @@ Open-Source Projects
 ======
 Most of my research work are open-source. Here are some my preferable projects!
 * [**YuLan-Chat**](https://github.com/RUC-GSAI/YuLan-Chat)
-  * YuLan-Chat-3-12B is an LLM trained from scratch. We pre-train the base model on over 1.6TB tokens of English, Chinese, and multilingual data, and then perform supervised fine-tuning via curriculum learning with high-quality English and Chinese instructions and human preference data to obtain the chat model.
+  * YuLan-Chat-3-12B is a LLM trained from scratch. It is pre-trained on over 1.6TB tokens of English, Chinese, and multilingual data, and then supervised fine-tuned via curriculum learning with high-quality English and Chinese instructions and human preference data.
   * YuLan-Chat-2 is developed by continually-pretraining and instruction-tuning LLaMA-2 with high-quality English and Chinese data. It can support 8k maximum length now, and outperforms other llama-2-based bilingual LLM on MMLU, C-Eval and AGIEval-Gaokao.
   * YuLan-Chat is a chat-based large language model developed based on fine-tuning LLaMA. YuLan-Chat can chat with users to well follow English or Chinese instructions, and can be deployed on an GPU (A800-80G or RTX3090) after quantization. YuLan (Simplified Chinese 玉兰), is the campus flower of Renmin University of China.
 * [**LLMSurvey**](https://github.com/RUCAIBox/LLMSurvey)
