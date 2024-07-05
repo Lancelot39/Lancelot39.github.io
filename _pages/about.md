@@ -25,17 +25,17 @@ Research Interests
 Currently, my primary research lies in large language models (LLMs). I am devoting to answer the following research problems:
 
 * **How to Build General LLMs?**
-  * ***Background:*** Crafting A Comprehensive Survey about LLMs: [Arxiv](https://arxiv.org/abs/2303.18223)
-  * ***Training:*** Curriculum Pre-training LLM from scratch: [YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat)
-  * ***What is stronger?*** Studying Benchmark Leakage in LLM Evaluation Fairness: [Arxiv](https://arxiv.org/pdf/2311.01964)
+  * ***Background:*** A Comprehensive Survey about LLMs [Arxiv](https://arxiv.org/abs/2303.18223)
+  * ***Training:*** Curriculum Pre-training [YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat)
+  * ***What is stronger?*** Studying Benchmark Leakage in LLM Evaluation Fairness [Arxiv](https://arxiv.org/pdf/2311.01964)
 * **How to Enhance Advanced Capability of LLMs?** (Knowledge/Mathematical Reasoning)
-  * ***Data Refinement and Synthesis:*** Distilling Data Synthesis Ability into Small LLMs: [JiuZhang3.0](https://arxiv.org/pdf/2405.14365)
-  * ***Training Algorithm:*** Reinforcement Learning with Fine-grained Rewards: [ACL 2024-Findings](https://arxiv.org/pdf/2401.06081); Data Curriculum for Multi-objective Learning: [Data-CUBE](https://arxiv.org/pdf/2401.03563), Low-Redundant Optimization for Alignment: [ALLO](https://arxiv.org/pdf/2406.12606)
+  * ***Data Refinement and Synthesis:*** Distilling Data Synthesis Ability into Small LLMs [JiuZhang3.0](https://arxiv.org/pdf/2405.14365)
+  * ***Training Algorithm:*** RL with Fine-grained Rewards [ACL 2024-Findings](https://arxiv.org/pdf/2401.06081), Data Curriculum [Data-CUBE](https://arxiv.org/pdf/2401.03563), Low-Redundant Optimization for Alignment [ALLO](https://arxiv.org/pdf/2406.12606)
   * ***Tool-Augmented Agent:*** Tool-Augmented Reasoning Agent [EMNLP 2023](https://arxiv.org/pdf/2305.14323), Iterative Deliberation for Error Check [NeurIPS 2023](https://arxiv.org/pdf/2306.02408)
-  * ***Reasoning Agent over Structured Data:*** Toolization with Prompting Method [EMNLP 2023](https://arxiv.org/pdf/2305.09645), Autonomous Agent for Complex Reasoning over KG [KG-Agent](https://arxiv.org/pdf/2402.11163).
+  * ***Reasoning Agent over Structured Data:*** Toolization with Prompting Method [EMNLP 2023](https://arxiv.org/pdf/2305.09645), Autonomous Agent for Complex Reasoning over KG [KG-Agent](https://arxiv.org/pdf/2402.11163)
 * **How to Enable LLMs for Multimodal Understanding and Generation?**
-  * ***Data Synthesis and Selection:*** Complex Visual Instruction Synthesis: [ComVint](https://arxiv.org/pdf/2311.01487), Gradient-based Visual Instruction Value Estimation: [TIVE](https://arxiv.org/pdf/2403.09559)
-  * ***Evaluating MLLM Alignment:*** Evaluation of Object Hallucination: [EMNLP 2023](https://arxiv.org/pdf/2305.10355), Exploiting Visual Vulnerabilities for Jailbreaking MLLMs: [HADES](https://arxiv.org/pdf/2403.09792), Event-oriented Long Video Understanding: [VIM](https://arxiv.org/pdf/2406.14129)
+  * ***Data Synthesis and Selection:*** Complex Visual Instruction Synthesis [ComVint](https://arxiv.org/pdf/2311.01487), Gradient-based Visual Instruction Value Estimation [TIVE](https://arxiv.org/pdf/2403.09559)
+  * ***Evaluating MLLM Alignment:*** Evaluation of Object Hallucination [EMNLP 2023](https://arxiv.org/pdf/2305.10355), Visual Vulnerabilities for Jailbreaking MLLMs [HADES](https://arxiv.org/pdf/2403.09792), Event-oriented Long Video Understanding [VIM](https://arxiv.org/pdf/2406.14129)
 
 Before the era of large language models, I have investigated pre-trained language models (PLMs), and their application on sentence representation learning and complex reasoning.
 
