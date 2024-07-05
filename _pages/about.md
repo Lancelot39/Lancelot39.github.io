@@ -18,6 +18,8 @@ Our one paper is accepted by ECCV 2024. Meet our Cool HADES for jailbreaking MLL
 
 Our three papers are accepted by ACL 2024. Thanks for my comrades!
 
+Our paper Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation has been awarded the EACL 2024 Evaluation and Model Insight Award!
+
 We publish YuLan-Base-12B and YuLan-Chat-3-12B, a series of new LLMs training from scratch! See more [details](https://github.com/RUC-GSAI/YuLan-Chat).
 
 Research Interests
@@ -41,6 +43,7 @@ Before the era of large language models, I have investigated pre-trained languag
 
 * **Effective Fine-tuning PLMs**
   * ***General Fine-tuning Strategy:*** Visual-Augmentation [ACL 2023](https://arxiv.org/pdf/2212.07937), Over-Parameterization [ACL 2023](https://aclanthology.org/2023.acl-long.212.pdf)
+  * ***PLM as Diffusion Model*** Masked Language Model likes Diffusion Model [EACL 2024 Evaluation and Model Insight Award](https://aclanthology.org/2024.eacl-long.86/)
 * **PLM-based Sentence Representations**
   * ***Unsupervised Sentence Representations:*** Debiased Contrastive Learning [ACL 2022](https://arxiv.org/pdf/2205.00656)
   * ***Dense Text Retrieval:*** Ambiguous Negatives Sampling [EMNLP 2022](https://arxiv.org/pdf/2210.11773), Multi-task Bottlenecked MAE [ECML-PKDD 2023](https://arxiv.org/pdf/2212.07841)
@@ -77,6 +80,7 @@ Experiences
 
 Rewards and Honors
 ------
+* EACL 2024 [Evaluation and Model Insight Award](https://2024.eacl.org/program/best-paper/#evaluation-and-model-insight-award)
 * Five Highly-cited Papers are selected as the most influential KDD/WWW/CIKM papers by PaperDigest:
   * [KDD](https://www.paperdigest.org/2023/09/most-influential-kdd-papers-2023-09/): [KGSF](https://www.paperdigest.org/paper/?paper_id=kdd-3394486.3403143-2020-08-21), [UniCRS](https://www.paperdigest.org/paper/?paper_id=kdd-3534678.3539382-2022-08-12)
   * [WWW](https://www.paperdigest.org/2023/09/most-influential-www-papers-2023-09/): [FMLP-Rec](https://www.paperdigest.org/paper/?paper_id=www-3485447.3512111-2022-04-29)
