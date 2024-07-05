@@ -8,28 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-Kun Zhou is a final year Ph.D student at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). His research interests are in natural language processing (NLP), with focuses on **large language model** (LLM) and their applications in complex scenarios. He obtained the master degree from Peking University, and bachelor from Hohai University.
+Kun Zhou will be a postdoctoral researcher at UC San Diego, working with [Zhiting Hu](http://zhiting.ucsd.edu/) and [Biwei Huang](https://biweihuang.com/). His research interests are in natural language processing (NLP) and multimodal systems, with focuses on **large language models** (LLMs) and their applications in complex scenarios. He obtained Ph.D at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN), master degree from Peking University, and bachelor from Hohai University.
 
 News
 ======
-***I am seeking for Postdoc Position about Large Language Models.***
+We publish JiuZhang3.0-7B/8B/8X7B, a series of LLMs with new SOTA performance on mathematical reasoning tasks, with only 1/4 cost for training and data synthesis! See more [details](https://arxiv.org/pdf/2405.14365).
 
-Our four papers are accepted by EMNLP 2023. Thanks for my comrades! See you in Singapore!
+Our one paper is accepted by ECCV 2024. Meet our Cool HADES for jailbreaking MLLMs!
 
-Our one paper is accepted by NeurIPS 2023 dataset Track. Thanks for my comrades!
+Our three papers are accepted by ACL 2024. Thanks for my comrades!
+
+We publish YuLan-Base-12B and YuLan-Chat-3-12B, a series of new LLMs training from scratch! See more [details](https://github.com/RUC-GSAI/YuLan-Chat).
 
 Research Interests
 ======
 Currently, my primary research lies in large language models (LLMs). I am devoting to answer the following research problems:
 
-* **How to Build Stronger General Large Language Models?**
+* **How to Build General LLMs?**
   * ***Background:*** Crafting A Comprehensive Survey about LLMs: [Arxiv](https://arxiv.org/abs/2303.18223)
-  * ***Training:*** Improving LLMs via High-quality Instructions: [YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat)
+  * ***Training:*** Curriculum Pre-training LLM from scratch: [YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat)
   * ***What is stronger?*** Studying Benchmark Leakage in LLM Evaluation Fairness: [Arxiv](https://arxiv.org/pdf/2311.01964)
-* **How to Create Effective and Efficient LLM-based Agents for Complex Scenarios?**
-  * ***Tool-Augmented Math Agent:*** Tool-Augmented Reasoning Agent [EMNLP 2023](https://arxiv.org/pdf/2305.14323), Iterative Deliberation for Error Check [NeurIPS 2023](https://arxiv.org/pdf/2306.02408)
-  * ***Reasoning Agent over Structured Data:*** Toolization with Prompting Method [EMNLP 2023](https://arxiv.org/pdf/2305.09645)
-  * ***Multimodal LLM-based Agent:*** Visual Instruction Tuning [Arxiv](https://arxiv.org/pdf/2311.01487), Evaluation of Object Hallucination [EMNLP 2023](https://arxiv.org/pdf/2305.10355)
+* **How to Enhance Advanced Capability of LLMs?** (Knowledge/Mathematical Reasoning)
+  * ***Data Refinement and Synthesis:*** Distilling Data Synthesis Ability into Small LLMs: [JiuZhang3.0](https://arxiv.org/pdf/2405.14365)
+  * ***Training Algorithm:*** Reinforcement Learning with Fine-grained Rewards: [ACL 2024-Findings](https://arxiv.org/pdf/2401.06081); Data Curriculum for Multi-objective Learning: [Data-CUBE](https://arxiv.org/pdf/2401.03563), Low-Redundant Optimization for Alignment: [ALLO](https://arxiv.org/pdf/2406.12606)
+  * ***Tool-Augmented Agent:*** Tool-Augmented Reasoning Agent [EMNLP 2023](https://arxiv.org/pdf/2305.14323), Iterative Deliberation for Error Check [NeurIPS 2023](https://arxiv.org/pdf/2306.02408)
+  * ***Reasoning Agent over Structured Data:*** Toolization with Prompting Method [EMNLP 2023](https://arxiv.org/pdf/2305.09645), Autonomous Agent for Complex Reasoning over KG [KG-Agent](https://arxiv.org/pdf/2402.11163).
+* **How to Enable LLMs for Multimodal Understanding and Generation?**
+  * ***Data Synthesis and Selection:*** Complex Visual Instruction Synthesis: [ComVint](https://arxiv.org/pdf/2311.01487), Gradient-based Visual Instruction Value Estimation: [TIVE](https://arxiv.org/pdf/2403.09559)
+  * ***Evaluating MLLM Alignment:*** Evaluation of Object Hallucination: [EMNLP 2023](https://arxiv.org/pdf/2305.10355), Exploiting Visual Vulnerabilities for Jailbreaking MLLMs: [HADES](https://arxiv.org/pdf/2403.09792), Event-oriented Long Video Understanding: [VIM](https://arxiv.org/pdf/2406.14129)
 
 Before the era of large language models, I have investigated pre-trained language models (PLMs), and their application on sentence representation learning and complex reasoning.
 
@@ -49,6 +55,7 @@ Open-Source Projects
 ======
 Most of my research work are open-source. Here are some my preferable projects!
 * [**YuLan-Chat**](https://github.com/RUC-GSAI/YuLan-Chat)
+  * YuLan-Chat-3-12B is an LLM trained from scratch. We pre-train the base model on over 1.6TB tokens of English, Chinese, and multilingual data, and then perform supervised fine-tuning via curriculum learning with high-quality English and Chinese instructions and human preference data to obtain the chat model.
   * YuLan-Chat-2 is developed by continually-pretraining and instruction-tuning LLaMA-2 with high-quality English and Chinese data. It can support 8k maximum length now, and outperforms other llama-2-based bilingual LLM on MMLU, C-Eval and AGIEval-Gaokao.
   * YuLan-Chat is a chat-based large language model developed based on fine-tuning LLaMA. YuLan-Chat can chat with users to well follow English or Chinese instructions, and can be deployed on an GPU (A800-80G or RTX3090) after quantization. YuLan (Simplified Chinese 玉兰), is the campus flower of Renmin University of China.
 * [**LLMSurvey**](https://github.com/RUCAIBox/LLMSurvey)
