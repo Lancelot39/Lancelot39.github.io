@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D** in Big Data Science and Engineering, Renmin University of China, 2024 (expected)
+* **Ph.D** in Big Data Science and Engineering, Renmin University of China, 2024
   * Advisor: Ji-Rong Wen and Wayne Xin Zhao
 * **M.S.** in Software Engineering, Peking University, 2020
   * Advisor: Jingsong Yu
@@ -42,6 +42,7 @@ Work experience
   
 Awards and Honors
 ======
+* EACL 2024 Evaluation and Model Insight Award [Link](https://2024.eacl.org/program/best-paper/#evaluation-and-model-insight-award)
 * 2022 Bytedance Scholarship (10 PhD Students in China Mainland) [Link](https://ur.bytedance.com/scholarship)
 * 2022 MSRA Fellowship (12 PhD Students in Asia-Pacific-region) [Link](https://www.msra.cn/zh-cn/news/features/2022-fellows)
 * 2022 Baogang Scholarship (12 Students in RUC). 
