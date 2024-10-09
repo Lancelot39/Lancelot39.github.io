@@ -8,36 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-Kun Zhou will be a postdoctoral researcher at UC San Diego, working with [Zhiting Hu](http://zhiting.ucsd.edu/) and [Biwei Huang](https://biweihuang.com/). His research interests are in natural language processing (NLP) and multimodal systems, with focuses on **large language models** (LLMs) and their applications in complex scenarios. He obtained Ph.D at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN), master degree from Peking University, and bachelor from Hohai University.
+Kun Zhou is a postdoctoral researcher at UC San Diego, working with [Zhiting Hu](http://zhiting.ucsd.edu/) and [Biwei Huang](https://biweihuang.com/). His research interests are in world model, with focuses on **large language models**, **multimodal learning**, and their applications in complex scenarios. He obtained Ph.D at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN), master degree from Peking University, and bachelor from Hohai University.
 
 News
 ======
-We publish JiuZhang3.0-7B/8B/8X7B, a series of LLMs with new SOTA performance on mathematical reasoning tasks, with only 1/4 cost for training and data synthesis! See more [details](https://arxiv.org/pdf/2405.14365).
+We release [De-Arena](https://de-arena.maitrix.org/), a Decentralized Arena via Collective LLM Intelligence for Building Automated, Robust, and Transparent LLM Evaluation for Numerous Dimensions!
 
-Our one paper is accepted by ECCV 2024. Meet our Cool HADES for jailbreaking MLLMs!
+Our JiuZhang3.0 is accepted by NeurIPS 2024. Thanks for my comrades!
 
-Our three papers are accepted by ACL 2024. Thanks for my comrades!
-
-Our paper Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation has been awarded the EACL 2024 Evaluation and Model Insight Award!
-
-We publish YuLan-Base-12B and YuLan-Chat-3-12B, a series of new LLMs training from scratch! See more [details](https://github.com/RUC-GSAI/YuLan-Chat).
+Our ALLO is accepted by EMNLP 2024. Thanks for my comrades!
 
 Research Interests
 ======
 Currently, my primary research lies in large language models (LLMs). I am devoting to answer the following research problems:
 
-* **How to Build General LLMs?**
+* **How to Build a Strong World Model?**
   * ***Background:*** A Comprehensive Survey about LLMs [Arxiv](https://arxiv.org/abs/2303.18223)
   * ***Training:*** Curriculum Pre-training [YuLan-Chat](https://github.com/RUC-GSAI/YuLan-Chat)
-  * ***What is stronger?*** Studying Benchmark Leakage in LLM Evaluation Fairness [Arxiv](https://arxiv.org/pdf/2311.01964)
-* **How to Enhance Advanced Capability of LLMs?** (Knowledge/Mathematical Reasoning)
-  * ***Data Refinement and Synthesis:*** Distilling Data Synthesis Ability into Small LLMs [JiuZhang3.0](https://arxiv.org/pdf/2405.14365)
-  * ***Training Algorithm:*** RL with Fine-grained Rewards [ACL 2024-Findings](https://arxiv.org/pdf/2401.06081), Data Curriculum [Data-CUBE](https://arxiv.org/pdf/2401.03563), Low-Redundant Optimization for Alignment [ALLO](https://arxiv.org/pdf/2406.12606)
+  * ***What is strong?*** Studying Benchmark Leakage for Fair Evaluation [Arxiv](https://arxiv.org/pdf/2311.01964), Decentralized Arena with Collective Intelligence [Blog](https://de-arena.maitrix.org/)
+* **How to Enhance the Reasoning Capability?** (Knowledge/Mathematical Reasoning)
+  * ***Data Refinement and Synthesis:*** Distilling Data Synthesis Ability [NeurIPS 2024](https://arxiv.org/pdf/2405.14365)
+  * ***Training Algorithm:*** RL with Fine-grained Rewards [ACL 2024-Findings](https://arxiv.org/pdf/2401.06081), Low-Redundant Optimization [EMNLP 2024](https://arxiv.org/pdf/2406.12606)
   * ***Tool-Augmented Agent:*** Tool-Augmented Reasoning Agent [EMNLP 2023](https://arxiv.org/pdf/2305.14323), Iterative Deliberation for Error Check [NeurIPS 2023](https://arxiv.org/pdf/2306.02408)
-  * ***Reasoning Agent over Structured Data:*** Toolization with Prompting Method [EMNLP 2023](https://arxiv.org/pdf/2305.09645), Autonomous Agent for Complex Reasoning over KG [KG-Agent](https://arxiv.org/pdf/2402.11163)
-* **How to Enable LLMs for Multimodal Understanding and Generation?**
-  * ***Data Synthesis and Selection:*** Complex Visual Instruction Synthesis [ComVint](https://arxiv.org/pdf/2311.01487), Gradient-based Visual Instruction Value Estimation [TIVE](https://arxiv.org/pdf/2403.09559)
-  * ***Evaluating MLLM Alignment:*** Evaluation of Object Hallucination [EMNLP 2023](https://arxiv.org/pdf/2305.10355), Visual Vulnerabilities for Jailbreaking MLLMs [HADES](https://arxiv.org/pdf/2403.09792), Event-oriented Long Video Understanding [VIM](https://arxiv.org/pdf/2406.14129)
+  * ***Reasoning Agent over Structured Data:*** Toolization with Prompting Method [EMNLP 2023](https://arxiv.org/pdf/2305.09645), Autonomous Agent for Reasoning over KG [KG-Agent](https://arxiv.org/pdf/2402.11163)
+* **How to Enhance the Multimodal Abilities?** (Image/Video Understanding/Generation )
+  * ***Training Data Management:*** Complex Visual Instruction Synthesis [ComVint](https://arxiv.org/pdf/2311.01487), Visual Instruction Value Estimation [TIVE](https://arxiv.org/pdf/2403.09559)
+  * ***Multimodal Alignment:*** Object Hallucination Evaluation [EMNLP 2023](https://arxiv.org/pdf/2305.10355), Visual Vulnerabilities for Jailbreaking [ECCV 2024](https://arxiv.org/pdf/2403.09792), Event-oriented Long Video Understanding [VIM](https://arxiv.org/pdf/2406.14129)
 
 Before the era of large language models, I have investigated pre-trained language models (PLMs), and their application on sentence representation learning and complex reasoning.
 
@@ -48,7 +44,7 @@ Before the era of large language models, I have investigated pre-trained languag
   * ***Unsupervised Sentence Representations:*** Debiased Contrastive Learning [ACL 2022](https://arxiv.org/pdf/2205.00656)
   * ***Dense Text Retrieval:*** Ambiguous Negatives Sampling [EMNLP 2022](https://arxiv.org/pdf/2210.11773), Multi-task Bottlenecked MAE [ECML-PKDD 2023](https://arxiv.org/pdf/2212.07841)
 * **PLM-based Complex Reasoning**
-  * ***Math-specific PLMs:*** Pre-training with Memory Network [ACL 2022](https://aclanthology.org/2022.acl-long.408.pdf), Curriculum Pre-training [KDD 2022](https://arxiv.org/pdf/2206.06315), Unified MoE Pre-training [KDD 2023](https://arxiv.org/pdf/2306.11027)
+  * ***Math-specific PLMs:*** Curriculum Pre-training [KDD 2022](https://arxiv.org/pdf/2206.06315), Unified MoE Pre-training [KDD 2023](https://arxiv.org/pdf/2306.11027)
   * ***PLM+KG for Knowledge Reasoning:*** Simple Rule-based KG Encoder [NAACL 2022](https://arxiv.org/pdf/2205.01841), Unified Relation Learning [ICLR 2023](https://arxiv.org/pdf/2212.00959)
 
 
@@ -57,10 +53,14 @@ I also have done interesting research works about conversational recommender sys
 Open-Source Projects
 ======
 Most of my research work are open-source. Here are some my preferable projects!
+* [**JiuZhang3.0**](https://arxiv.org/pdf/2405.14365)
+  * We publish JiuZhang3.0-7B/8B/8X7B, a series of LLMs with new SOTA performance on mathematical reasoning tasks, with only 1/4 cost for training and data synthesis!
 * [**YuLan-Chat**](https://github.com/RUC-GSAI/YuLan-Chat)
   * YuLan-Chat-3-12B is a LLM trained from scratch. It is pre-trained on over 1.6TB tokens of English, Chinese, and multilingual data, and then supervised fine-tuned via curriculum learning with high-quality English and Chinese instructions and human preference data.
   * YuLan-Chat-2 is developed by continually-pretraining and instruction-tuning LLaMA-2 with high-quality English and Chinese data. It can support 8k maximum length now, and outperforms other llama-2-based bilingual LLM on MMLU, C-Eval and AGIEval-Gaokao.
   * YuLan-Chat is a chat-based large language model developed based on fine-tuning LLaMA. YuLan-Chat can chat with users to well follow English or Chinese instructions, and can be deployed on an GPU (A800-80G or RTX3090) after quantization. YuLan (Simplified Chinese 玉兰), is the campus flower of Renmin University of China.
+* [**LLMBook**](https://llmbook-zh.github.io/LLMBook.pdf)
+  * A Chinese book for everyone to master the knowledge about large language models.
 * [**LLMSurvey**](https://github.com/RUCAIBox/LLMSurvey)
   * A collection of papers and resources related to Large Language Models. The organization of papers refers to our survey "A Survey of Large Language Models". 
 
