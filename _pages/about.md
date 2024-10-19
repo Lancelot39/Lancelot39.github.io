@@ -10,6 +10,8 @@ redirect_from:
 
 Kun Zhou is a postdoctoral researcher at UC San Diego, working with [Zhiting Hu](http://zhiting.ucsd.edu/) and [Biwei Huang](https://biweihuang.com/). His research interests are in world model, with focuses on **large language models**, **multimodal learning**, and their applications in complex scenarios. He obtained Ph.D at School of Information, Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN), master degree from Peking University, and bachelor from Hohai University.
 
+#### <font color="red"> Research Opportunities: </font> I am consistently seeking highly motivated students, to work with me in various research projects. If you are interested in my current research topics about improving the advanced capabilities of LLMs and World Models (Complex Reasoning, Multimodal Understanding and Generation), feel free to email me.
+
 News
 ======
 We release [De-Arena](https://de-arena.maitrix.org/), a Decentralized Arena via Collective LLM Intelligence for Building Automated, Robust, and Transparent LLM Evaluation for Numerous Dimensions!
