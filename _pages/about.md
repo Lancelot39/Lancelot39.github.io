@@ -14,11 +14,11 @@ Kun Zhou is a postdoctoral researcher at UC San Diego, working with [Zhiting Hu]
 
 News
 ======
+We release [Causal-Copilot](https://huggingface.co/spaces/Causal-Copilot/Causal-Copilot), an LLM-oriented toolkit for Automatic Causal Analysis!
+
 We release [De-Arena](https://de-arena.maitrix.org/), a Decentralized Arena via Collective LLM Intelligence for Building Automated, Robust, and Transparent LLM Evaluation for Numerous Dimensions!
 
 Our JiuZhang3.0 is accepted by NeurIPS 2024. Thanks for my comrades!
-
-Our ALLO is accepted by EMNLP 2024. Thanks for my comrades!
 
 Research Interests
 ======
